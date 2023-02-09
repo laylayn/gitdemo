@@ -19,7 +19,7 @@ public class Main {
 
         System.out.println("ty for playing");
 
-        System.out.println("this is something new");
+        System.out.println("this is something");
 
     }
 }
