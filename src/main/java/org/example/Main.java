@@ -17,5 +17,7 @@ public class Main {
         else
             System.out.println("cute");
 
+        System.out.println("ty for playing");
+
     }
 }
